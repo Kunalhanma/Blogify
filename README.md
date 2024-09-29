@@ -82,7 +82,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- LinkedIn: [Himanshu Yadav](https://www.linkedin.com/in/kunal-malhotra-164742259/)
+- LinkedIn: [Kunal](https://www.linkedin.com/in/kunal-malhotra-164742259/)
 
 ---
 
