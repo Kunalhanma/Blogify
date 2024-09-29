@@ -1,4 +1,4 @@
-# The Blog
+# Blogify
 
 The Blog is a full-stack blog application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) along with AWS technologies for deployment and cloud services. This application allows users to create, edit, delete, and view blog posts with a user-friendly interface.
 
@@ -82,8 +82,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- Twitter: [Himanshu](https://www.x.com/0xhimansh)
-- LinkedIn: [Himanshu Yadav](https://www.linkedin.com/in/0xhimanshuyadav/)
+- LinkedIn: [Himanshu Yadav](https://www.linkedin.com/in/kunal-malhotra-164742259/)
 
 ---
 
